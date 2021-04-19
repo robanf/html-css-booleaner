@@ -2,8 +2,8 @@
     background-image: url("../img/pattern.png");
     
     background-size: contain;
-    height: 100px;
-    
+    height: 70px;
+    width: 100%;
     background-color:rgb(48, 143, 233);
 }
 
@@ -24,4 +24,8 @@ h1{
 
 .blue{
     color: blue;
+}
+
+.intestazioni{
+    font-size: 12px;
 }
