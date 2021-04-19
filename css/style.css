@@ -48,14 +48,14 @@ thead{
     color: white;
 }
 
-td{
-    width: 33%;
-}
+
 
 .lightblue{
     background-color: lightblue;
 }
-
+.big{
+    width: 50%;
+}
 .fine{
     color: gray;
     font-size: 20px;
