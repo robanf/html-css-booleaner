@@ -55,3 +55,27 @@ td{
 .lightblue{
     background-color: lightblue;
 }
+
+.fine{
+    color: gray;
+    font-size: 20px;
+}
+
+.img-1{
+    width: 240px;
+    height: 240px;
+    font-size: 25px;
+    
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+}
+
+.img-2{
+    width: 240px;
+    height: 240px;
+    font-size: 25px;
+    color: white;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+}
